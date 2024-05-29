@@ -2,7 +2,7 @@
 
 This is a custom chip for [Wokwi](https://wokwi.com/). It implements a  faur independent 2-INPUT exclusive-NOR gates in Positive logic . The chip performs the following boolean function :  Y = NOT( A . B) + (A . B) 
 ## Truth Table 
-|   INPUTS   |  OUTPUTS |
+| INPUTS     | OUTPUTS  |
 | ---------- | -------- |
 |   A  |  B  |     Y    |
 |   L  |  L  |     H    |
