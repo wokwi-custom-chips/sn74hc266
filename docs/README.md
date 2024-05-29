@@ -5,7 +5,6 @@ This is a custom chip for [Wokwi](https://wokwi.com/). It implements a  faur ind
 | INPUTS     | OUTPUTS  |
 | --------------------- |
 |   A  |  B  |     Y    |
-| --------------------- |
 |   L  |  L  |     H    |
 |   L  |  H  |     L    |
 |   H  |  L  |     L    | 
